@@ -22,4 +22,4 @@ For Jenkins pipeline:
 Upload all HCL configuration files to GitHub, create a pipeline, integrate the repository with this pipeline and make sure to check the 
 GitHub hook trigger for GITScm polling option. Write the script and build the pipeline.   
   
-After the pipeline runs successfully, all setiings and configurations have been applied and the resources are deployed in AWS.
+After the pipeline builds successfully, all settings and configurations have been applied and the resources are deployed in AWS.
