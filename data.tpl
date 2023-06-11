@@ -1,5 +1,4 @@
-# This file is to better understand what happens as soon as you spin a VM. 
-# Firstly, it updates the VM , installs apache and starts it.
+
 
 #! /bin/bash
 sudo apt-get update
